@@ -1,0 +1,30 @@
+{
+  "name": "btc0",
+  "version": "1.0.0",
+  "description": "btc playground",
+  "main": "index.js",
+  "dependencies": {
+    "secp256k1": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronotono/btc0.git"
+  },
+  "keywords": [
+    "btc",
+    "bitcoin",
+    "js",
+    "nodejs",
+    "npm"
+  ],
+  "author": "phil s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronotono/btc0/issues"
+  },
+  "homepage": "https://github.com/ronotono/btc0#readme"
+}
